@@ -1,0 +1,7 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Vegetable Biryani,25,2026-06-25,1,Restaurant,Mumbai,Vegetarian,Lunch
+2,Bread Packets,40,2026-06-24,2,Grocery Store,Mumbai,Vegetarian,Breakfast
+3,Fruit Boxes,30,2026-06-26,3,Supermarket,Pune,Vegan,Snacks
+4,Chicken Curry,15,2026-06-23,4,Restaurant,Bengaluru,Non-Vegetarian,Dinner
+5,Rice Meals,50,2026-06-25,5,Grocery Store,Delhi,Vegetarian,Lunch
+6,Sandwiches,20,2026-06-24,1,Restaurant,Mumbai,Vegetarian,Snacks
